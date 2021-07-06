@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/airtable-react/static/css/main.da9b429c.chunk.css",
+    "main.css": "/airtable-react/static/css/main.59e57d37.chunk.css",
     "main.js": "/airtable-react/static/js/main.d2657a62.chunk.js",
     "main.js.map": "/airtable-react/static/js/main.d2657a62.chunk.js.map",
     "runtime-main.js": "/airtable-react/static/js/runtime-main.1fa4f2c1.js",
@@ -8,13 +8,13 @@
     "static/js/2.48601cb2.chunk.js": "/airtable-react/static/js/2.48601cb2.chunk.js",
     "static/js/2.48601cb2.chunk.js.map": "/airtable-react/static/js/2.48601cb2.chunk.js.map",
     "index.html": "/airtable-react/index.html",
-    "static/css/main.da9b429c.chunk.css.map": "/airtable-react/static/css/main.da9b429c.chunk.css.map",
+    "static/css/main.59e57d37.chunk.css.map": "/airtable-react/static/css/main.59e57d37.chunk.css.map",
     "static/js/2.48601cb2.chunk.js.LICENSE.txt": "/airtable-react/static/js/2.48601cb2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1fa4f2c1.js",
     "static/js/2.48601cb2.chunk.js",
-    "static/css/main.da9b429c.chunk.css",
+    "static/css/main.59e57d37.chunk.css",
     "static/js/main.d2657a62.chunk.js"
   ]
 }
