@@ -31,31 +31,50 @@ body, h1, p, input {
 .input-tracking {
   width: 100%;
   border: 1px solid #D6D9DE;
+  color: #35495e;
   border-radius: 8px;
-  padding: 12px 12px;
-  outline: 0;
-  font-weight: 500;
+  padding: 16px 16px;
+
+  font-weight: 400;
   font-size: 16px;
   min-width: 100px;
   border-right: 1px solid transparent;
-  padding-right: 24px;
+  padding-right: 16px;
+}
+.input-tracking:hover {
+    border: 1px solid #61c876;
+}
+
+.input-tracking:focus {
+
+    outline-offset: -2px solid #61c876;
+    color: #35495e;
+}
+
+.input-tracking::placeholder {
+    color: #D6D9DE;
+    font-style: italic;
+}
+.input-tracking:focus::placeholder {
+    color: transparent;
 }
 
 .search-button {
-  background-color: #7FC57E;
+  background-color: #61c876;
   color: white;
   border-radius: 8px;
-  padding: 12px 28px;
+  padding: 16px 16px;
   border: 1px solid #7FC57E;
-  margin-left: -12px;
+  margin-left: -32px;
   cursor: pointer;
   transition: 0.3s ease;
   font-family: "Rubik", sans-serif;
   font-size: 16px;
+  min-width: 140px;
 }
 
 .search-button:hover {
-  opacity: 0.8;
+  background-color: #65d17b;
 }
 
 .title {
